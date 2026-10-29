@@ -18,7 +18,7 @@ O objetivo principal do projeto foi ir além da estruturação básica de layout
 
 ## 🌐 Demonstração
 
-🔗 **Acesse online:**https://snitap-peach.vercel.app
+🔗 **Acesse online:** https://snitap-peach.vercel.app
 
 
 ---
